@@ -1,0 +1,7 @@
+.navbar__btns {
+    border: 1px solid teal;
+    text-decoration: none;
+    color: teal;
+    padding: 5px 15px;
+    margin: 0 10px 0 0;
+}
